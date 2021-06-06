@@ -230,7 +230,7 @@ h3{
   opacity: 0;
   visibility: hidden;
   padding: 10px 0;
-  background: #fff;
+  background: rgb(0, 0, 0);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -250,7 +250,7 @@ h3{
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("/images/img-hero-bg.jpg") center center no-repeat;
+  
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
